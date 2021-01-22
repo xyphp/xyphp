@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "37c11fa66acab23665e13ff8ce3c8b67",
+    "packages": [
+        {
+            "name": "xyphp/framework",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/xyphp/framework.git",
+                "reference": "3aadbd80ec5c9a5712fcef670252c048d4e0b5bf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/xyphp/framework/zipball/3aadbd80ec5c9a5712fcef670252c048d4e0b5bf",
+                "reference": "3aadbd80ec5c9a5712fcef670252c048d4e0b5bf",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "sam.shi",
+                    "email": "redphp@126.com"
+                }
+            ],
+            "description": "xyphp is a easy php framework",
+            "keywords": [
+                "framework",
+                "php framework",
+                "xyphp"
+            ],
+            "support": {
+                "issues": "https://github.com/xyphp/framework/issues",
+                "source": "https://github.com/xyphp/framework/tree/1.0.2"
+            },
+            "time": "2021-01-22T06:43:21+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^7.0|^8.0"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
