@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "37c11fa66acab23665e13ff8ce3c8b67",
+    "content-hash": "05f5e79114967e882b225acf6bca8c96",
     "packages": [
         {
             "name": "xyphp/framework",
@@ -42,6 +42,38 @@
                 "source": "https://github.com/xyphp/framework/tree/1.0.2"
             },
             "time": "2021-01-22T06:43:21+00:00"
+        },
+        {
+            "name": "xyphp/libs",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/xyphp/libs.git",
+                "reference": "384819a552cf7e892d274270829840c80e4d9b0e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/xyphp/libs/zipball/384819a552cf7e892d274270829840c80e4d9b0e",
+                "reference": "384819a552cf7e892d274270829840c80e4d9b0e",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "mit"
+            ],
+            "authors": [
+                {
+                    "name": "sam.shi",
+                    "email": "redphp@126.com"
+                }
+            ],
+            "description": "description",
+            "support": {
+                "issues": "https://github.com/xyphp/libs/issues",
+                "source": "https://github.com/xyphp/libs/tree/1.0.1"
+            },
+            "time": "2021-01-22T08:21:45+00:00"
         }
     ],
     "packages-dev": [],
